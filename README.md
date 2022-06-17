@@ -38,7 +38,7 @@ Logs on your host
 
  Screenshot
 ===========================
- <img align="left" src="https://github.com/psxdev/bd-jb/blob/master/screenshot.png">
+ <img align="left" src="https://github.com/psxdev/bd-jb/blob/main/screenshot.png">
 
 
  Change log
